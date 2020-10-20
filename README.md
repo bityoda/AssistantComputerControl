@@ -1,3 +1,7 @@
+# The main goal of this fork
+* Provide it as a service, so it works also on logged off machines
+* Provide the ability to execute custom commands.
+
 # AssistantComputerControl
 Control your computer using your **Google Home**, **Amazon Alexa** and **Microsoft Cortana** assistants!
 
